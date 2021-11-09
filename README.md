@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Kotlin , Flutter and Node.js (express)
+- 💬 Ask me about any thing , be sure I'll be genrous.
+- 📫 How to reach me: sinda.arous@esprit.tn
 <!--
 **sindaarous/sindaarous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
