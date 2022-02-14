@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Kotlin , Flutter and Node.js (express)
+
+- 🔭 I’m currently working on kotlin , Flutter , Node.js(express) and Swift
+- 🌱 I’m currently learning Machine Learning 
 - 💬 Ask me about any thing , be sure I'll be genrous.
 - 📫 How to reach me: sinda.arous@esprit.tn
 <!--
